@@ -20,6 +20,7 @@ The third code provides the testing of images and finally detect the modak in an
 
 The results are:
 1. Output of calculation of dimension of bounding box 
+![dimension of bounding box output](https://user-images.githubusercontent.com/37157534/72637806-18a4a400-3988-11ea-828a-b51f3fae1a14.JPG)
 
 
 2. Output of Develop ModakDataset Object
