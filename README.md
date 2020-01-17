@@ -16,7 +16,7 @@ Since, no dataset on "modak" was available, I have created my own dataset which 
 
 The first code does the calculation and gives the dimensions of the bounding box of the no. of annotations done in an image.
 
-The second code is of splitting the image sinto training and testing images and likewise loading the dataset object To run my code I required an updated version of tensor flow although a continuous internal error (file downloads) kept occurring and despite many efforts, it cannot be solved in time. Thus, I could not run the epochs of my code and if given more time I will be able to complete this. This liberary was required  https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/utils.py to import so that a new dataset class could be created.
+The second code is of splitting the images into training and testing images and likewise loading the dataset object To run my code I required an updated version of tensor flow although a continuous internal error (file downloads) kept occurring and despite many efforts, it cannot be solved in time. Thus, I could not run the epochs of my code and if given more time I would have completed this. Mask RCNN library was required  https://github.com/matterport/Mask_RCNN/blob/master/mrcnn/utils.py to import so that a new dataset class could be created.
 
 The third code provides the testing of images and finally detect the modak in an image
 
@@ -27,3 +27,5 @@ The results are:
 
 2. Output of Develop ModakDataset Object
 ![Capture](https://user-images.githubusercontent.com/37157534/72637416-463d1d80-3987-11ea-9877-80bdbef00eda.JPG)
+
+
