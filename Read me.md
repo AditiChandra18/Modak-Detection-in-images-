@@ -11,6 +11,8 @@ Since, no dataset on "modak" was available, I have created my own dataset(folder
 The first code does the calculation and gives the dimensions of the bounding box of the no. of  annotations done in an image.
 
 The second code is of splitting the image sinto training and testing images and likewise loading the dataset object
-Due to some issues of up gradation of tensor flow, output is not coming
+To run my code I required an updated version of tensor flow although a continuous internal error (file downloads) kept 
+occurring and despite many efforts, it cannot be solved in time. Thus, I could not run the epochs of my code and if given 
+more time I will be able to complete this. 
 
 The third code provides the testing of images and finally detect the modak in an image
