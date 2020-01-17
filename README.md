@@ -22,4 +22,4 @@ The results are:
 1. 
 
 2. Output of Develop ModakDataset Object
-https://user-images.githubusercontent.com/37157534/72637416-463d1d80-3987-11ea-9877-80bdbef00eda.JPG
+![Capture](https://user-images.githubusercontent.com/37157534/72637416-463d1d80-3987-11ea-9877-80bdbef00eda.JPG)
