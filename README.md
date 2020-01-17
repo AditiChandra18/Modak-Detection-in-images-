@@ -18,4 +18,6 @@ The second code is of splitting the image sinto training and testing images and 
 
 The third code provides the testing of images and finally detect the modak in an image
 
-The results are
+The results are:
+2. Output of running training of im
+https://user-images.githubusercontent.com/37157534/72637416-463d1d80-3987-11ea-9877-80bdbef00eda.JPG
